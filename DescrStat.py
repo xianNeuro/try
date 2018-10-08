@@ -21,3 +21,5 @@ def DescrStat(datafile):
     print('Variance of the data is:', data_var)
 
     return data_mean, data_std, data_var
+
+# i am just doing this to see how it works
